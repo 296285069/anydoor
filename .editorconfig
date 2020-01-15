@@ -1,4 +1,4 @@
-#定义编码规范文件
+#定义编码格式规范
 # EditorConfig helps developers define and maintain consistent
 # coding styles between different editors and IDEs
 # editorconfig.org
@@ -15,7 +15,7 @@ indent_size = 2
 
 end_of_line = lf
 insert_final_newline = true
-trim_trailing_whitespace = true  
+trim_trailing_whitespace = true
 
 [*.json]
 indent_size = 4
